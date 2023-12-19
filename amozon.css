@@ -1,0 +1,33 @@
+*{
+    margin:0px;
+    padding: 0px;
+    
+}
+.cards{
+    width:30%;
+ border-radius:10px;
+    margin:20px;
+    background-color: brown;
+    display: inline-block;
+
+}
+.image img{
+    width:100%;
+
+    
+    }
+    .title{
+        text-align: center;
+
+    }
+    .name{
+        text-align: center;
+
+    }
+    .price{
+        text-align: center;
+
+    }
+    button{
+
+    }

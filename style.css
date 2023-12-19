@@ -1,0 +1,27 @@
+*{
+    margin:0%;
+    padding:0%;
+}
+.main{
+    width:100%;
+    background:-o-linear-gradient(to top, rgba(0,0,0,5)50%,rgba(0,0,0,5)50%),url(../yash/back.jpg);
+background-position: centre;
+background-size:cover;
+height:100%;
+}
+.navbar{
+    width:120px;
+    height:75px;
+    margin:auto;
+}
+.icon{
+    width:200px;
+    float:left;
+    height:70px;
+}
+.logo{
+    color:blueviolet;
+    font-size:35px;
+    font-family:arial;
+    padding-left:30px;
+}
